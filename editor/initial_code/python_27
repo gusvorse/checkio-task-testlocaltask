@@ -1,8 +1,9 @@
 def checkio(a, b):
     """
         sums two passed arguments
+	it is fun
     """
-    return None
+    return 0
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':
